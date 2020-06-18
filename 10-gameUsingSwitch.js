@@ -1,3 +1,5 @@
+// Code the game rock paper scissors using switch
+
 function playGame (human, machine) {
     switch(human){
         case "rock":

@@ -1,5 +1,5 @@
-
 // Code the game rock paper scissors using if else loops
+
 function playGame (human, machine) {    
     if(human == "rock" && machine == "scissors" 
     ||  human == "paper" && machine == "rock"
